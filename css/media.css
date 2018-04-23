@@ -1,0 +1,70 @@
+@media only screen and (min-height: 900px) { 
+
+.col-xs-12 h2 { 
+    margin-top: 33px !important ;
+}
+.allign { 
+    margin-left: 15px; 
+}
+.date h2 { 
+    font-size: 4rem;
+
+}
+
+.container p {
+    font-size: 30px !important;
+    margin-bottom: 40px !important;
+}
+.sponso { 
+    margin-bottom: 40px;
+}
+
+.jumbotron {
+    padding-top: 110px !important;
+}
+#container .row { 
+    margin-left: -180px !important;
+}
+.display-4 { 
+    margin-bottom: 50px;
+}
+.row a img { 
+    width : 650px ;
+
+}
+.edit { 
+    margin-left : 0 ;
+    margin-right: 50px ;
+    
+}
+.lead { 
+    font-size: 30px !important;
+
+}
+#media1 { 
+    top : 20% ;
+}
+
+.display-8 { 
+    font-size: 30px !important;
+    margin-bottom: 50px;
+}
+.static{ 
+    top: 40%;
+}
+.static h2 { 
+    font-size: 60px  ;
+    top: 90px;
+}
+.petit { 
+    font-size: 30px !important ;
+}
+
+.none { 
+    display: none ;
+}
+#color { 
+    top : 66% ;
+}
+}
+
